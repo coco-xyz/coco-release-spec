@@ -1,0 +1,14 @@
+{
+  "name": "coco-release-spec",
+  "version": "0.1.0",
+  "description": "Dev-facing release engineering specification for Coco projects",
+  "type": "module",
+  "keywords": ["zylos", "coco", "release", "spec", "dev"],
+  "author": "Coco",
+  "license": "MIT",
+  "engines": { "node": ">=20.0.0" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coco-xyz/coco-release-spec.git"
+  }
+}
